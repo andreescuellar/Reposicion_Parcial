@@ -5,17 +5,62 @@
 ## a) Bitácora
 
 
-1. Inicializar el programa.
+1. Problema 1.
 
-   1.1 Se incluyen todas las librerias a utilizar. 
+   1.1.1 Se crea un nodo para la lista enlazada simple.
+       
+   ![](RepPar/111.png)
    
-   1.2 Se hace la funcion del Nodo.
+   1.1.2 Se crea un constructor que iguala la cabeza a NULL
    
-   1.3 Se hacen los prototipos de cada uno de los metodos a utilizar para poder escribirlos abajo del main.
+   ![](RepPar/112.png)
    
-   1.4 Se declaran la variable global. 
-
- ![](Tarea5-Lab5Fotos/prototipos.png)
+   1.1.3 Se agrega la funcion para agregar Valor.
+   
+   ![](RepPar/113.png)
+   
+   1.1.4 Funcion para retirar elemento y elimar nodo.
+   
+   ![](RepPar/114.png)
+   
+   
+   1.2.1 Se crea un nodo para la lista doblemente enlazada.
+   
+   ![](RepPar/121.png)
+   
+   1.2.2 Se crea funcion para buscar en la lista.
+   
+   ![](RepPar/122.png)
+   
+   1.2.3 Funcion para insertar en la lista.
+   
+   ![](RepPar/123.png)
+   
+   1.2.4 Funcion Mostrar en la lista. 
+   
+   ![](RepPar/124.png)
+   
+   1.2.5 Funcion para eliminar en la lista.
+   
+   ![](RepPar/125.png)
+   
+   1.2.6 Funcion para invertir la lista.
+   
+   ![](RepPar/126.png)
+   
+   
+   1.3.1 Se crea un nodo para la lista enlazada circular.
+   
+   ![](RepPar/131.png)
+   
+   1.3.2 Se agrega la funcion para agregar a la lista. 
+   
+   ![](RepPar/132.png)
+   
+   1.3.2 Se agrega la funcion para mostar la lista. 
+   
+   ![](RepPar/133.png)
+   
 
  
 2. Insertar Valor.
