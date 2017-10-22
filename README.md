@@ -5,7 +5,7 @@
 ## a) Bitácora
 
 
-1. Problema 1.
+1.1 Problema 1 (Lista enlazada simple, doblemente enlazada y enlazada circular)
 
    1.1.1 Se crea un nodo para la lista enlazada simple.
        
@@ -61,9 +61,112 @@
    
    ![](RepPar/133.png)
    
+1.2 Problema 1 (Cola, Pila y Lista DINAMICAS)
 
+   1.4.1 Se crea un nodo para la Pila.
+       
+   ![](RepPar/141.png)
+   
+   1.4.2 Se crea funcion para apilar.
+   
+   ![](RepPar/142.png)
+   
+   1.4.3 Se agrega la funcion para mostrar.
+   
+   ![](RepPar/143.png)
+   
+   1.4.4 Se agrega la funcion para desapilar.
+   
+   ![](RepPar/144.png)
+   
+   
+   1.5.1 Se crea un nodo para la Cola.
+       
+   ![](RepPar/151.png)
+   
+   1.5.2 Se crea funcion para ver si esta vacia.
+   
+   ![](RepPar/152.png)
+   
+   1.5.3 Se crea funcion para encolar.
+   
+   ![](RepPar/153.png)
+   
+   1.5.4 Se agrega la funcion para desencolar.
+   
+   ![](RepPar/154.png)
+   
+   
+   1.6.1 Se crea un nodo para la Lista.
+       
+   ![](RepPar/161.png)
+   
+   1.6.2 Se crea funcion para ver insertar a la lista.
+   
+   ![](RepPar/162.png)
+   
+   1.6.3 Se crea funcion para mostrar lista.
+   
+   ![](RepPar/163.png)
+   
+   1.6.4 Se agrega la funcion para buscar en la lista.
+   
+   ![](RepPar/164.png)
+   
+   1.6.5 Se agrega la funcion para eliminar algun nodo.
+   
+   ![](RepPar/165.png)
+   
+1.3 Problema 1 (Cola, Pila y Lista ARRAY)
+
+   1.7.1 Se crea funcion para ver si la cola esta vacia o esta llena.
+       
+   ![](RepPar/171.png)
+   
+   1.7.2 Se crea funcion para desencolar.
+   
+   ![](RepPar/172.png)
+   
+   1.7.3 Se agrega la funcion para encolar.
+   
+   ![](RepPar/173.png)
+   
+   1.7.4 Se agrega la funcion para imprimir.
+   
+   ![](RepPar/174.png)
+   
+   
+   1.8.1 Se inicializa el tamaño y funcion para liberar espacio.
+       
+   ![](RepPar/181.png)
+   
+   1.8.2 Se crea funcion para insertar a la lista.
+   
+   ![](RepPar/182.png)
+   
+   1.8.3 Se crea funcion para imprrimir.
+   
+   ![](RepPar/183.png)
+   
  
-2. Insertar Valor.
+   1.9.1 Funcion para apilar.
+       
+   ![](RepPar/161.png)
+   
+   1.9.2 Funcion para desapilar.
+   
+   ![](RepPar/162.png)
+   
+   1.9.3 Se crea funcion para mostar lista.
+   
+   ![](RepPar/163.png)
+   
+   1.9.4 Se agrega la funcion para ver si esta vacia.
+   
+   ![](RepPar/164.png)
+   
+
+2. Problema 2.
 
    2.1 Se declara el objeto nuevo nodo y dos variables auxiliares nodo. 
    
