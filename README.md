@@ -168,29 +168,25 @@
 
 2. Problema 2.
 
-   2.1 Se declara el objeto nuevo nodo y dos variables auxiliares nodo. 
+   2.1 Funcion para invertir el orden, siendo el primer elemento el ultimo en la lista. 
    
-   2.2 Mediante un ciclo while se pone el valor con menos valor en la cabeza de la lista y que elemento va abajo dependiendo de su valor.
+   ![](RepPar/22.png)
    
-   2.3 Mediante una sentencia If/Else se colocan el resto de los elementos en orden. 
+
+3. Problema 3.
+
+   3.1 Codigo que verificar que no esten vacias las listas, obtienen los valores de las listas, ordena los valores y los inserta en una nueva lista.
    
-![](Tarea5-Lab5Fotos/put.png)
-
-3. Mostrar los elementos de la lista.
-
-   3.1 Se inicializa el objeto Nodo "Actual" y se iguala a lista
+   ![](RepPar/33.png)
    
-   3.2 Mediante un ciclo while el nodo Actual recorrera la lista hasta que si valor sea NULL que nos dara la pauta que la lista acabo.
+  
 
-![](Tarea5-Lab5Fotos/show.png)
+4. Problema 4.
 
-4. Mostrar los elementos de la lista.
-
-   4.1 Se inicializa el objeto Nodo "Actual" y se iguala a lista
+   4.1 Funcion que hace la comparacion de las listas.
    
-   4.2 Mediante un ciclo while el nodo Actual recorrera la lista hasta que si valor sea NULL que nos dara la pauta que la lista acabo.
-
-![](Tarea5-Lab5Fotos/show.png)
+   ![](RepPar/44.png)
+   
 
 5. Mostrar los elementos de la lista.
 
