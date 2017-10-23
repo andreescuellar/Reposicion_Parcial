@@ -188,20 +188,32 @@
    ![](RepPar/44.png)
    
 
-5. Mostrar los elementos de la lista.
+5. Problema 5.
 
-   5.1 Se inicializa el objeto Nodo "Actual" y se iguala a lista
+   5.1 Se crea el Nodo para la lista.
    
-   5.2 Mediante un ciclo while el nodo Actual recorrera la lista hasta que si valor sea NULL que nos dara la pauta que la lista acabo.
-
-![](Tarea5-Lab5Fotos/show.png)
-
-
-6. Main.
-
-      6.1 Se crea el main, dentro se solicita al usuario ingresar 3 datos y se llama a la funcion insertarLista donde los ordenara y          almacenara. 
+   ![](RepPar/51.png)
    
-      6.2  Se llama a la funcion mostrarLista donde se imprimira la lista en forma ascendente.
+   5.2 Funcion para insertar participantes.
+
+   ![](RepPar/52.png)
    
-![](Tarea5-Lab5Fotos/main.png)
+   5.3 Funcion para mostrar el listado de participantes.
+   
+   ![](RepPar/53.png)
+   
+   5.4 Funcion para buscar el participante ganador del premio.
+   
+   ![](RepPar/54.png)
+   
+   5.5 Funcion para eliminar al participante que ya ha ganado un premio.
+   
+   ![](RepPar/55.png)
+   
+   5.6 Funcion donde se genera el numero al azar del premio para otorgar al ganador. 
+   
+   ![](RepPar/56.png)
+  
+
+
 
