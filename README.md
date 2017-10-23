@@ -21,7 +21,7 @@
    
    1.1.4 Funcion para retirar elemento y elimar nodo.
    
-   ![](RepPar/114.png)
+   ![](RepPar/1114.png)
    
    
    1.2.1 Se crea un nodo para la lista doblemente enlazada.
