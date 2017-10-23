@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<?fileVersion 4.0.0?><cproject storage_type_id="org.eclipse.cdt.core.XmlProjectDescriptionStorage">
+	<storageModule moduleId="org.eclipse.cdt.core.settings">
+		<cconfiguration id="cdt.managedbuild.config.llvm.clang.win32.mingw.exe.debug.1380197051">
+			<storageModule buildSystemId="org.eclipse.cdt.managedbuilder.core.configurationDataProvider" id="cdt.managedbuild.config.llvm.clang.win32.mingw.exe.debug.1380197051" moduleId="org.eclipse.cdt.core.settings" name="Debug">
+				<externalSettings/>
+				<extensions>
+					<extension id="org.eclipse.cdt.core.PE" point="org.eclipse.cdt.core.BinaryParser"/>
+					<extension id="org.eclipse.cdt.core.GASErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GLDErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GCCErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+				</extensions>
+			</storageModule>
+			<storageModule moduleId="cdtBuildSystem" version="4.0.0">
+				<configuration artifactName="${ProjName}" buildArtefactType="org.eclipse.cdt.build.core.buildArtefactType.exe" buildProperties="org.eclipse.cdt.build.core.buildArtefactType=org.eclipse.cdt.build.core.buildArtefactType.exe,org.eclipse.cdt.build.core.buildType=org.eclipse.cdt.build.core.buildType.debug" cleanCommand="rm -rf" description="" id="cdt.managedbuild.config.llvm.clang.win32.mingw.exe.debug.1380197051" name="Debug" parent="cdt.managedbuild.config.llvm.clang.win32.mingw.exe.debug">
+					<folderInfo id="cdt.managedbuild.config.llvm.clang.win32.mingw.exe.debug.1380197051." name="/" resourcePath="">
+						<toolChain id="cdt.managedbuild.toolchain.llvm.clang.win32.mingw.exe.debug.964221563" name="LLVM with Clang (Windows) (MinGW) " superClass="cdt.managedbuild.toolchain.llvm.clang.win32.mingw.exe.debug">
+							<targetPlatform archList="all" id="cdt.managedbuild.target.llvm.clang.win32.mingw.platform.exe.debug.539374515" name="Debug Platform" osList="win32" superClass="cdt.managedbuild.target.llvm.clang.win32.mingw.platform.exe.debug"/>
+							<builder buildPath="${workspace_loc:/Lista(enlazada simple, doble y ciruclar)}/Debug" id="cdt.managedbuild.target.llvm.clang.win32.mingw.builder.exe.debug.1019340339" keepEnvironmentInBuildfile="false" managedBuildOn="true" name="CDT Internal Builder" superClass="cdt.managedbuild.target.llvm.clang.win32.mingw.builder.exe.debug"/>
+							<tool id="cdt.managedbuild.tool.llvm.clang.win32.mingw.assembler.exe.debug.592294931" name="LLVM assembler" superClass="cdt.managedbuild.tool.llvm.clang.win32.mingw.assembler.exe.debug"/>
+							<tool id="cdt.managedbuild.tool.llvm.archiver.base.1793312154" name="LLVM archiver" superClass="cdt.managedbuild.tool.llvm.archiver.base"/>
+							<tool id="cdt.managedbuild.tool.llvm.clang.win32.mingw.c.compiler.exe.debug.646242579" name="LLVM Clang" superClass="cdt.managedbuild.tool.llvm.clang.win32.mingw.c.compiler.exe.debug">
+								<option id="llvm.c_cpp.compiler.option.optimization.level.653106621" name="Optimization Level" superClass="llvm.c_cpp.compiler.option.optimization.level" useByScannerDiscovery="false" value="llvm.c_cpp.compiler.optimization.level.none" valueType="enumerated"/>
+								<option id="llvm.c_cpp.compiler.option.debugging.level.2020369906" name="Debug Level" superClass="llvm.c_cpp.compiler.option.debugging.level" useByScannerDiscovery="false" value="llvm.c_cpp.compiler.debugging.level.max" valueType="enumerated"/>
+								<inputType id="cdt.managedbuild.tool.llvm.c.compiler.input.1561241791" superClass="cdt.managedbuild.tool.llvm.c.compiler.input"/>
+							</tool>
+							<tool id="cdt.managedbuild.tool.llvm.clang.win32.mingw.cpp.compiler.exe.debug.73717979" name="LLVM Clang++" superClass="cdt.managedbuild.tool.llvm.clang.win32.mingw.cpp.compiler.exe.debug">
+								<option id="llvm.c_cpp.compiler.option.optimization.level.1155829010" name="Optimization Level" superClass="llvm.c_cpp.compiler.option.optimization.level" useByScannerDiscovery="false" value="llvm.c_cpp.compiler.optimization.level.none" valueType="enumerated"/>
+								<option id="llvm.c_cpp.compiler.option.debugging.level.1124000618" name="Debug Level" superClass="llvm.c_cpp.compiler.option.debugging.level" useByScannerDiscovery="false" value="llvm.c_cpp.compiler.debugging.level.max" valueType="enumerated"/>
+								<inputType id="cdt.managedbuild.tool.llvm.cpp.compiler.input.1381654905" superClass="cdt.managedbuild.tool.llvm.cpp.compiler.input"/>
+							</tool>
+							<tool id="cdt.managedbuild.tool.llvm.clang.win32.mingw.c.linker.exe.debug.1792393059" name="LLVM Clang C linker" superClass="cdt.managedbuild.tool.llvm.clang.win32.mingw.c.linker.exe.debug">
+								<option defaultValue="false" id="llvm.c.link.option.nativeCBackEnd.303907880" name="Create native binary (with C backend code generator)" superClass="llvm.c.link.option.nativeCBackEnd" valueType="boolean"/>
+							</tool>
+							<tool id="cdt.managedbuild.tool.llvm.clang.win32.mingw.cpp.linker.exe.debug.881524159" name="LLVM Clang C++ linker" superClass="cdt.managedbuild.tool.llvm.clang.win32.mingw.cpp.linker.exe.debug">
+								<option defaultValue="false" id="llvm.c.link.option.nativeCBackEnd.521420859" name="Create native binary (with C backend code generator)" superClass="llvm.c.link.option.nativeCBackEnd" valueType="boolean"/>
+								<inputType id="cdt.managedbuild.tool.llvm.c.linker.input.217437340" superClass="cdt.managedbuild.tool.llvm.c.linker.input">
+									<additionalInput kind="additionalinputdependency" paths="$(USER_OBJS)"/>
+									<additionalInput kind="additionalinput" paths="$(LIBS)"/>
+								</inputType>
+							</tool>
+						</toolChain>
+					</folderInfo>
+					<sourceEntries>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="src"/>
+					</sourceEntries>
+				</configuration>
+			</storageModule>
+			<storageModule moduleId="org.eclipse.cdt.core.externalSettings"/>
+		</cconfiguration>
+		<cconfiguration id="cdt.managedbuild.config.llvm.clang.win32.mingw..exe.release.1392375071">
+			<storageModule buildSystemId="org.eclipse.cdt.managedbuilder.core.configurationDataProvider" id="cdt.managedbuild.config.llvm.clang.win32.mingw..exe.release.1392375071" moduleId="org.eclipse.cdt.core.settings" name="Release">
+				<externalSettings/>
+				<extensions>
+					<extension id="org.eclipse.cdt.core.PE" point="org.eclipse.cdt.core.BinaryParser"/>
+					<extension id="org.eclipse.cdt.core.GASErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GLDErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+					<extension id="org.eclipse.cdt.core.GCCErrorParser" point="org.eclipse.cdt.core.ErrorParser"/>
+				</extensions>
+			</storageModule>
+			<storageModule moduleId="cdtBuildSystem" version="4.0.0">
+				<configuration artifactName="${ProjName}" buildArtefactType="org.eclipse.cdt.build.core.buildArtefactType.exe" buildProperties="org.eclipse.cdt.build.core.buildArtefactType=org.eclipse.cdt.build.core.buildArtefactType.exe,org.eclipse.cdt.build.core.buildType=org.eclipse.cdt.build.core.buildType.release" cleanCommand="rm -rf" description="" id="cdt.managedbuild.config.llvm.clang.win32.mingw..exe.release.1392375071" name="Release" parent="cdt.managedbuild.config.llvm.clang.win32.mingw..exe.release">
+					<folderInfo id="cdt.managedbuild.config.llvm.clang.win32.mingw..exe.release.1392375071." name="/" resourcePath="">
+						<toolChain id="cdt.managedbuild.toolchain.llvm.clang.win32.mingw.exe.release.607585407" name="LLVM with Clang (Windows) (MinGW) " superClass="cdt.managedbuild.toolchain.llvm.clang.win32.mingw.exe.release">
+							<targetPlatform archList="all" id="cdt.managedbuild.target.llvm.clang.win32.mingw.platform.exe.release.440652552" name="Debug Platform" osList="win32" superClass="cdt.managedbuild.target.llvm.clang.win32.mingw.platform.exe.release"/>
+							<builder buildPath="${workspace_loc:/Lista(enlazada simple, doble y ciruclar)}/Release" id="cdt.managedbuild.target.llvm.clang.win32.mingw.builder.exe.release.671695387" keepEnvironmentInBuildfile="false" managedBuildOn="true" name="CDT Internal Builder" superClass="cdt.managedbuild.target.llvm.clang.win32.mingw.builder.exe.release"/>
+							<tool id="cdt.managedbuild.tool.llvm.clang.win32.mingw.assembler.exe.release.754900111" name="LLVM assembler" superClass="cdt.managedbuild.tool.llvm.clang.win32.mingw.assembler.exe.release"/>
+							<tool id="cdt.managedbuild.tool.llvm.archiver.base.419628550" name="LLVM archiver" superClass="cdt.managedbuild.tool.llvm.archiver.base"/>
+							<tool id="cdt.managedbuild.tool.llvm.clang.win32.mingw.c.compiler.exe.release.1527859216" name="LLVM Clang" superClass="cdt.managedbuild.tool.llvm.clang.win32.mingw.c.compiler.exe.release">
+								<option id="llvm.c_cpp.compiler.option.optimization.level.1610528058" name="Optimization Level" superClass="llvm.c_cpp.compiler.option.optimization.level" useByScannerDiscovery="false" value="llvm.c_cpp.compiler.optimization.level.most" valueType="enumerated"/>
+								<option id="llvm.c_cpp.compiler.option.debugging.level.1927162189" name="Debug Level" superClass="llvm.c_cpp.compiler.option.debugging.level" useByScannerDiscovery="false" value="llvm.c_cpp.compiler.debugging.level.none" valueType="enumerated"/>
+								<inputType id="cdt.managedbuild.tool.llvm.c.compiler.input.1842244638" superClass="cdt.managedbuild.tool.llvm.c.compiler.input"/>
+							</tool>
+							<tool id="cdt.managedbuild.tool.llvm.clang.win32.mingw.cpp.compiler.exe.release.808409007" name="LLVM Clang++" superClass="cdt.managedbuild.tool.llvm.clang.win32.mingw.cpp.compiler.exe.release">
+								<option id="llvm.c_cpp.compiler.option.optimization.level.105669625" name="Optimization Level" superClass="llvm.c_cpp.compiler.option.optimization.level" useByScannerDiscovery="false" value="llvm.c_cpp.compiler.optimization.level.most" valueType="enumerated"/>
+								<option id="llvm.c_cpp.compiler.option.debugging.level.1847265264" name="Debug Level" superClass="llvm.c_cpp.compiler.option.debugging.level" useByScannerDiscovery="false" value="llvm.c_cpp.compiler.debugging.level.none" valueType="enumerated"/>
+								<inputType id="cdt.managedbuild.tool.llvm.cpp.compiler.input.1026365835" superClass="cdt.managedbuild.tool.llvm.cpp.compiler.input"/>
+							</tool>
+							<tool id="cdt.managedbuild.tool.llvm.clang.win32.mingw.c.linker.exe.release.110003538" name="LLVM Clang C linker" superClass="cdt.managedbuild.tool.llvm.clang.win32.mingw.c.linker.exe.release">
+								<option defaultValue="false" id="llvm.c.link.option.nativeCBackEnd.93690079" name="Create native binary (with C backend code generator)" superClass="llvm.c.link.option.nativeCBackEnd" valueType="boolean"/>
+							</tool>
+							<tool id="cdt.managedbuild.tool.llvm.clang.win32.mingw.cpp.linker.exe.release.376901846" name="LLVM Clang C++ linker" superClass="cdt.managedbuild.tool.llvm.clang.win32.mingw.cpp.linker.exe.release">
+								<option defaultValue="false" id="llvm.c.link.option.nativeCBackEnd.635112017" name="Create native binary (with C backend code generator)" superClass="llvm.c.link.option.nativeCBackEnd" valueType="boolean"/>
+								<inputType id="cdt.managedbuild.tool.llvm.c.linker.input.1097321993" superClass="cdt.managedbuild.tool.llvm.c.linker.input">
+									<additionalInput kind="additionalinputdependency" paths="$(USER_OBJS)"/>
+									<additionalInput kind="additionalinput" paths="$(LIBS)"/>
+								</inputType>
+							</tool>
+						</toolChain>
+					</folderInfo>
+					<sourceEntries>
+						<entry flags="VALUE_WORKSPACE_PATH|RESOLVED" kind="sourcePath" name="src"/>
+					</sourceEntries>
+				</configuration>
+			</storageModule>
+			<storageModule moduleId="org.eclipse.cdt.core.externalSettings"/>
+		</cconfiguration>
+	</storageModule>
+	<storageModule moduleId="cdtBuildSystem" version="4.0.0">
+		<project id="Lista(enlazada simple, doble y ciruclar).cdt.managedbuild.target.llvm.clang.win32.mingw.exe.800438027" name="Executable" projectType="cdt.managedbuild.target.llvm.clang.win32.mingw.exe"/>
+	</storageModule>
+	<storageModule moduleId="scannerConfiguration">
+		<autodiscovery enabled="true" problemReportingEnabled="true" selectedProfileId=""/>
+	</storageModule>
+	<storageModule moduleId="org.eclipse.cdt.core.LanguageSettingsProviders"/>
+</cproject>
